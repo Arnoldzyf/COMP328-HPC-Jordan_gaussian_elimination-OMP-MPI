@@ -1,0 +1,11 @@
+
+test case 1 of size 240 * 240
+
+
+******************** Serial *********************
+============= run time (5) ==============
+Run time for Gaussian elimination by serial algorithm: 6.482271 milliseconds
+Run time for Gaussian elimination by serial algorithm: 5.843822 milliseconds
+Run time for Gaussian elimination by serial algorithm: 5.665284 milliseconds
+Run time for Gaussian elimination by serial algorithm: 5.644982 milliseconds
+Run time for Gaussian elimination by serial algorithm: 5.258434 milliseconds

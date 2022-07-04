@@ -1,0 +1,247 @@
+
+test case 1 of size 480 * 480
+using the maximum of 40 cores
+
+
+
+******************** OMP ***********************
+============= OMP with 1 threads =================
+Run time for Gaussian elimination openMP: 58.720827 milliseconds
+Run time for Gaussian elimination openMP: 47.362089 milliseconds
+Run time for Gaussian elimination openMP: 58.307886 milliseconds
+Run time for Gaussian elimination openMP: 44.443130 milliseconds
+Run time for Gaussian elimination openMP: 55.784941 milliseconds
+============= OMP with 2 threads =================
+Run time for Gaussian elimination openMP: 36.916018 milliseconds
+Run time for Gaussian elimination openMP: 31.928062 milliseconds
+Run time for Gaussian elimination openMP: 36.755085 milliseconds
+Run time for Gaussian elimination openMP: 35.259962 milliseconds
+Run time for Gaussian elimination openMP: 29.973030 milliseconds
+============= OMP with 3 threads =================
+Run time for Gaussian elimination openMP: 27.375937 milliseconds
+Run time for Gaussian elimination openMP: 24.470806 milliseconds
+Run time for Gaussian elimination openMP: 22.157907 milliseconds
+Run time for Gaussian elimination openMP: 27.980089 milliseconds
+Run time for Gaussian elimination openMP: 24.731874 milliseconds
+============= OMP with 4 threads =================
+Run time for Gaussian elimination openMP: 24.523020 milliseconds
+Run time for Gaussian elimination openMP: 23.620844 milliseconds
+Run time for Gaussian elimination openMP: 24.954796 milliseconds
+Run time for Gaussian elimination openMP: 21.528006 milliseconds
+Run time for Gaussian elimination openMP: 24.256945 milliseconds
+============= OMP with 5 threads =================
+Run time for Gaussian elimination openMP: 22.295952 milliseconds
+Run time for Gaussian elimination openMP: 21.004915 milliseconds
+Run time for Gaussian elimination openMP: 21.869898 milliseconds
+Run time for Gaussian elimination openMP: 21.540880 milliseconds
+Run time for Gaussian elimination openMP: 19.607782 milliseconds
+============= OMP with 6 threads =================
+Run time for Gaussian elimination openMP: 19.293070 milliseconds
+Run time for Gaussian elimination openMP: 19.183874 milliseconds
+Run time for Gaussian elimination openMP: 18.892050 milliseconds
+Run time for Gaussian elimination openMP: 19.381046 milliseconds
+Run time for Gaussian elimination openMP: 18.621922 milliseconds
+============= OMP with 7 threads =================
+Run time for Gaussian elimination openMP: 17.415047 milliseconds
+Run time for Gaussian elimination openMP: 17.213106 milliseconds
+Run time for Gaussian elimination openMP: 16.386032 milliseconds
+Run time for Gaussian elimination openMP: 15.280008 milliseconds
+Run time for Gaussian elimination openMP: 43.732882 milliseconds
+============= OMP with 8 threads =================
+Run time for Gaussian elimination openMP: 36.567926 milliseconds
+Run time for Gaussian elimination openMP: 16.421080 milliseconds
+Run time for Gaussian elimination openMP: 15.204906 milliseconds
+Run time for Gaussian elimination openMP: 16.464233 milliseconds
+Run time for Gaussian elimination openMP: 13.521910 milliseconds
+============= OMP with 9 threads =================
+Run time for Gaussian elimination openMP: 15.911818 milliseconds
+Run time for Gaussian elimination openMP: 16.162872 milliseconds
+Run time for Gaussian elimination openMP: 15.697002 milliseconds
+Run time for Gaussian elimination openMP: 14.948130 milliseconds
+Run time for Gaussian elimination openMP: 14.526844 milliseconds
+============= OMP with 10 threads =================
+Run time for Gaussian elimination openMP: 14.956951 milliseconds
+Run time for Gaussian elimination openMP: 14.883041 milliseconds
+Run time for Gaussian elimination openMP: 13.900995 milliseconds
+Run time for Gaussian elimination openMP: 14.939070 milliseconds
+Run time for Gaussian elimination openMP: 15.759945 milliseconds
+============= OMP with 11 threads =================
+Run time for Gaussian elimination openMP: 14.412880 milliseconds
+Run time for Gaussian elimination openMP: 17.073154 milliseconds
+Run time for Gaussian elimination openMP: 14.011860 milliseconds
+Run time for Gaussian elimination openMP: 14.015913 milliseconds
+Run time for Gaussian elimination openMP: 14.600039 milliseconds
+============= OMP with 12 threads =================
+Run time for Gaussian elimination openMP: 14.582157 milliseconds
+Run time for Gaussian elimination openMP: 16.861916 milliseconds
+Run time for Gaussian elimination openMP: 27.045965 milliseconds
+Run time for Gaussian elimination openMP: 13.944149 milliseconds
+Run time for Gaussian elimination openMP: 13.282061 milliseconds
+============= OMP with 13 threads =================
+Run time for Gaussian elimination openMP: 13.900995 milliseconds
+Run time for Gaussian elimination openMP: 13.182878 milliseconds
+Run time for Gaussian elimination openMP: 13.895988 milliseconds
+Run time for Gaussian elimination openMP: 13.969183 milliseconds
+Run time for Gaussian elimination openMP: 13.859034 milliseconds
+============= OMP with 14 threads =================
+Run time for Gaussian elimination openMP: 13.580084 milliseconds
+Run time for Gaussian elimination openMP: 13.217926 milliseconds
+Run time for Gaussian elimination openMP: 13.106823 milliseconds
+Run time for Gaussian elimination openMP: 12.688160 milliseconds
+Run time for Gaussian elimination openMP: 33.878088 milliseconds
+============= OMP with 15 threads =================
+Run time for Gaussian elimination openMP: 46.073914 milliseconds
+Run time for Gaussian elimination openMP: 13.499022 milliseconds
+Run time for Gaussian elimination openMP: 46.514988 milliseconds
+Run time for Gaussian elimination openMP: 42.207956 milliseconds
+Run time for Gaussian elimination openMP: 29.484987 milliseconds
+============= OMP with 16 threads =================
+Run time for Gaussian elimination openMP: 13.020992 milliseconds
+Run time for Gaussian elimination openMP: 12.546062 milliseconds
+Run time for Gaussian elimination openMP: 46.476126 milliseconds
+Run time for Gaussian elimination openMP: 30.131102 milliseconds
+Run time for Gaussian elimination openMP: 28.833866 milliseconds
+============= OMP with 17 threads =================
+Run time for Gaussian elimination openMP: 29.220104 milliseconds
+Run time for Gaussian elimination openMP: 45.759916 milliseconds
+Run time for Gaussian elimination openMP: 13.472080 milliseconds
+Run time for Gaussian elimination openMP: 42.509079 milliseconds
+Run time for Gaussian elimination openMP: 13.709068 milliseconds
+============= OMP with 18 threads =================
+Run time for Gaussian elimination openMP: 13.103008 milliseconds
+Run time for Gaussian elimination openMP: 33.578873 milliseconds
+Run time for Gaussian elimination openMP: 45.585871 milliseconds
+Run time for Gaussian elimination openMP: 16.847134 milliseconds
+Run time for Gaussian elimination openMP: 12.481928 milliseconds
+============= OMP with 19 threads =================
+Run time for Gaussian elimination openMP: 12.986898 milliseconds
+Run time for Gaussian elimination openMP: 41.539907 milliseconds
+Run time for Gaussian elimination openMP: 34.832001 milliseconds
+Run time for Gaussian elimination openMP: 28.495073 milliseconds
+Run time for Gaussian elimination openMP: 12.713909 milliseconds
+============= OMP with 20 threads =================
+Run time for Gaussian elimination openMP: 28.054953 milliseconds
+Run time for Gaussian elimination openMP: 41.133165 milliseconds
+Run time for Gaussian elimination openMP: 14.701128 milliseconds
+Run time for Gaussian elimination openMP: 12.757063 milliseconds
+Run time for Gaussian elimination openMP: 27.794123 milliseconds
+============= OMP with 21 threads =================
+Run time for Gaussian elimination openMP: 44.173002 milliseconds
+Run time for Gaussian elimination openMP: 12.887001 milliseconds
+Run time for Gaussian elimination openMP: 36.587000 milliseconds
+Run time for Gaussian elimination openMP: 13.144016 milliseconds
+Run time for Gaussian elimination openMP: 31.127930 milliseconds
+============= OMP with 22 threads =================
+Run time for Gaussian elimination openMP: 41.232109 milliseconds
+Run time for Gaussian elimination openMP: 46.540976 milliseconds
+Run time for Gaussian elimination openMP: 12.470961 milliseconds
+Run time for Gaussian elimination openMP: 29.905081 milliseconds
+Run time for Gaussian elimination openMP: 30.025005 milliseconds
+============= OMP with 23 threads =================
+Run time for Gaussian elimination openMP: 28.013945 milliseconds
+Run time for Gaussian elimination openMP: 15.331984 milliseconds
+Run time for Gaussian elimination openMP: 41.183949 milliseconds
+Run time for Gaussian elimination openMP: 46.626091 milliseconds
+Run time for Gaussian elimination openMP: 30.985117 milliseconds
+============= OMP with 24 threads =================
+Run time for Gaussian elimination openMP: 48.831224 milliseconds
+Run time for Gaussian elimination openMP: 32.683849 milliseconds
+Run time for Gaussian elimination openMP: 42.279959 milliseconds
+Run time for Gaussian elimination openMP: 37.724018 milliseconds
+Run time for Gaussian elimination openMP: 42.173862 milliseconds
+============= OMP with 25 threads =================
+Run time for Gaussian elimination openMP: 48.035145 milliseconds
+Run time for Gaussian elimination openMP: 28.957129 milliseconds
+Run time for Gaussian elimination openMP: 19.876957 milliseconds
+Run time for Gaussian elimination openMP: 30.300140 milliseconds
+Run time for Gaussian elimination openMP: 62.251806 milliseconds
+============= OMP with 26 threads =================
+Run time for Gaussian elimination openMP: 29.250860 milliseconds
+Run time for Gaussian elimination openMP: 30.563831 milliseconds
+Run time for Gaussian elimination openMP: 59.597015 milliseconds
+Run time for Gaussian elimination openMP: 60.089111 milliseconds
+Run time for Gaussian elimination openMP: 33.861160 milliseconds
+============= OMP with 27 threads =================
+Run time for Gaussian elimination openMP: 41.780949 milliseconds
+Run time for Gaussian elimination openMP: 42.024851 milliseconds
+Run time for Gaussian elimination openMP: 35.561085 milliseconds
+Run time for Gaussian elimination openMP: 36.548138 milliseconds
+Run time for Gaussian elimination openMP: 34.610033 milliseconds
+============= OMP with 28 threads =================
+Run time for Gaussian elimination openMP: 36.112070 milliseconds
+Run time for Gaussian elimination openMP: 38.044930 milliseconds
+Run time for Gaussian elimination openMP: 39.371967 milliseconds
+Run time for Gaussian elimination openMP: 47.273159 milliseconds
+Run time for Gaussian elimination openMP: 32.474995 milliseconds
+============= OMP with 29 threads =================
+Run time for Gaussian elimination openMP: 41.788816 milliseconds
+Run time for Gaussian elimination openMP: 42.897940 milliseconds
+Run time for Gaussian elimination openMP: 37.739992 milliseconds
+Run time for Gaussian elimination openMP: 37.027836 milliseconds
+Run time for Gaussian elimination openMP: 35.575151 milliseconds
+============= OMP with 30 threads =================
+Run time for Gaussian elimination openMP: 38.735867 milliseconds
+Run time for Gaussian elimination openMP: 41.352987 milliseconds
+Run time for Gaussian elimination openMP: 38.106918 milliseconds
+Run time for Gaussian elimination openMP: 38.376808 milliseconds
+Run time for Gaussian elimination openMP: 41.851997 milliseconds
+============= OMP with 31 threads =================
+Run time for Gaussian elimination openMP: 59.117079 milliseconds
+Run time for Gaussian elimination openMP: 61.134815 milliseconds
+Run time for Gaussian elimination openMP: 44.854879 milliseconds
+Run time for Gaussian elimination openMP: 51.493168 milliseconds
+Run time for Gaussian elimination openMP: 39.551020 milliseconds
+============= OMP with 32 threads =================
+Run time for Gaussian elimination openMP: 34.582853 milliseconds
+Run time for Gaussian elimination openMP: 37.639856 milliseconds
+Run time for Gaussian elimination openMP: 54.312944 milliseconds
+Run time for Gaussian elimination openMP: 55.330038 milliseconds
+Run time for Gaussian elimination openMP: 52.062988 milliseconds
+============= OMP with 33 threads =================
+Run time for Gaussian elimination openMP: 58.644056 milliseconds
+Run time for Gaussian elimination openMP: 38.615942 milliseconds
+Run time for Gaussian elimination openMP: 53.830147 milliseconds
+Run time for Gaussian elimination openMP: 39.839029 milliseconds
+Run time for Gaussian elimination openMP: 46.968937 milliseconds
+============= OMP with 34 threads =================
+Run time for Gaussian elimination openMP: 40.336132 milliseconds
+Run time for Gaussian elimination openMP: 53.530931 milliseconds
+Run time for Gaussian elimination openMP: 37.634134 milliseconds
+Run time for Gaussian elimination openMP: 40.884972 milliseconds
+Run time for Gaussian elimination openMP: 99.951029 milliseconds
+============= OMP with 35 threads =================
+Run time for Gaussian elimination openMP: 34.862995 milliseconds
+Run time for Gaussian elimination openMP: 43.984890 milliseconds
+Run time for Gaussian elimination openMP: 36.865950 milliseconds
+Run time for Gaussian elimination openMP: 48.719883 milliseconds
+Run time for Gaussian elimination openMP: 58.851004 milliseconds
+============= OMP with 36 threads =================
+Run time for Gaussian elimination openMP: 66.565990 milliseconds
+Run time for Gaussian elimination openMP: 52.906990 milliseconds
+Run time for Gaussian elimination openMP: 42.207003 milliseconds
+Run time for Gaussian elimination openMP: 46.560049 milliseconds
+Run time for Gaussian elimination openMP: 58.046103 milliseconds
+============= OMP with 37 threads =================
+Run time for Gaussian elimination openMP: 11.672020 milliseconds
+Run time for Gaussian elimination openMP: 63.133955 milliseconds
+Run time for Gaussian elimination openMP: 50.174952 milliseconds
+Run time for Gaussian elimination openMP: 65.459967 milliseconds
+Run time for Gaussian elimination openMP: 46.877146 milliseconds
+============= OMP with 38 threads =================
+Run time for Gaussian elimination openMP: 48.449039 milliseconds
+Run time for Gaussian elimination openMP: 48.873901 milliseconds
+Run time for Gaussian elimination openMP: 46.257973 milliseconds
+Run time for Gaussian elimination openMP: 48.073053 milliseconds
+Run time for Gaussian elimination openMP: 63.589096 milliseconds
+============= OMP with 39 threads =================
+Run time for Gaussian elimination openMP: 49.932957 milliseconds
+Run time for Gaussian elimination openMP: 87.387085 milliseconds
+Run time for Gaussian elimination openMP: 64.725161 milliseconds
+Run time for Gaussian elimination openMP: 46.802044 milliseconds
+Run time for Gaussian elimination openMP: 56.114912 milliseconds
+============= OMP with 40 threads =================
+Run time for Gaussian elimination openMP: 70.329905 milliseconds
+Run time for Gaussian elimination openMP: 57.416201 milliseconds
+Run time for Gaussian elimination openMP: 40.749073 milliseconds
+Run time for Gaussian elimination openMP: 51.827192 milliseconds
+Run time for Gaussian elimination openMP: 107.215881 milliseconds

@@ -1,0 +1,32 @@
+
+test optimization
+test case of size 240 * 240
+using 6 cores
+
+
+
+******************** OMP ***********************
+============= opt=0 OMP with 6 threads =================
+Run time for Gaussian elimination openMP: 22.736788 milliseconds
+Run time for Gaussian elimination openMP: 20.771027 milliseconds
+Run time for Gaussian elimination openMP: 20.471096 milliseconds
+Run time for Gaussian elimination openMP: 21.600962 milliseconds
+Run time for Gaussian elimination openMP: 21.488905 milliseconds
+============= opt=1 OMP with 6 threads =================
+Run time for Gaussian elimination openMP: 9.287834 milliseconds
+Run time for Gaussian elimination openMP: 8.618116 milliseconds
+Run time for Gaussian elimination openMP: 8.712053 milliseconds
+Run time for Gaussian elimination openMP: 8.862972 milliseconds
+Run time for Gaussian elimination openMP: 8.718967 milliseconds
+============= opt=2 OMP with 6 threads =================
+Run time for Gaussian elimination openMP: 7.736921 milliseconds
+Run time for Gaussian elimination openMP: 7.734060 milliseconds
+Run time for Gaussian elimination openMP: 7.396936 milliseconds
+Run time for Gaussian elimination openMP: 7.197857 milliseconds
+Run time for Gaussian elimination openMP: 7.158995 milliseconds
+============= opt=3 OMP with 6 threads =================
+Run time for Gaussian elimination openMP: 8.067131 milliseconds
+Run time for Gaussian elimination openMP: 7.894993 milliseconds
+Run time for Gaussian elimination openMP: 7.502079 milliseconds
+Run time for Gaussian elimination openMP: 7.466078 milliseconds
+Run time for Gaussian elimination openMP: 7.445097 milliseconds

@@ -1,0 +1,147 @@
+
+test case 1 of size 240 * 600
+using the maximum of 40 cores
+
+
+
+******************** MPI ***********************
+============= MPI with 1 processors =================
+Run time for Gaussian elimination of by MPI: 18.556692 milliseconds
+Run time for Gaussian elimination of by MPI: 18.509716 milliseconds
+Run time for Gaussian elimination of by MPI: 18.577270 milliseconds
+Run time for Gaussian elimination of by MPI: 18.037207 milliseconds
+Run time for Gaussian elimination of by MPI: 18.145330 milliseconds
+============= MPI with 2 processors =================
+Run time for Gaussian elimination of by MPI: 10.051131 milliseconds
+Run time for Gaussian elimination of by MPI: 12.975827 milliseconds
+Run time for Gaussian elimination of by MPI: 13.508990 milliseconds
+Run time for Gaussian elimination of by MPI: 10.387369 milliseconds
+Run time for Gaussian elimination of by MPI: 13.538621 milliseconds
+============= MPI with 3 processors =================
+Run time for Gaussian elimination of by MPI: 8.023761 milliseconds
+Run time for Gaussian elimination of by MPI: 7.690705 milliseconds
+Run time for Gaussian elimination of by MPI: 7.771283 milliseconds
+Run time for Gaussian elimination of by MPI: 7.414714 milliseconds
+Run time for Gaussian elimination of by MPI: 7.811345 milliseconds
+============= MPI with 4 processors =================
+Run time for Gaussian elimination of by MPI: 6.964505 milliseconds
+Run time for Gaussian elimination of by MPI: 7.075042 milliseconds
+Run time for Gaussian elimination of by MPI: 7.380761 milliseconds
+Run time for Gaussian elimination of by MPI: 6.981865 milliseconds
+Run time for Gaussian elimination of by MPI: 6.861627 milliseconds
+============= MPI with 5 processors =================
+Run time for Gaussian elimination of by MPI: 6.855495 milliseconds
+Run time for Gaussian elimination of by MPI: 6.803930 milliseconds
+Run time for Gaussian elimination of by MPI: 6.883129 milliseconds
+Run time for Gaussian elimination of by MPI: 6.573074 milliseconds
+Run time for Gaussian elimination of by MPI: 7.711865 milliseconds
+============= MPI with 6 processors =================
+Run time for Gaussian elimination of by MPI: 6.340720 milliseconds
+Run time for Gaussian elimination of by MPI: 6.818138 milliseconds
+Run time for Gaussian elimination of by MPI: 6.393619 milliseconds
+Run time for Gaussian elimination of by MPI: 6.421432 milliseconds
+Run time for Gaussian elimination of by MPI: 6.271601 milliseconds
+============= MPI with 7 processors =================
+!! N_cons 240 is indivisible by comm_size 7 , please change the number of processors !!
+============= MPI with 8 processors =================
+Run time for Gaussian elimination of by MPI: 6.210558 milliseconds
+Run time for Gaussian elimination of by MPI: 6.298006 milliseconds
+Run time for Gaussian elimination of by MPI: 6.291695 milliseconds
+Run time for Gaussian elimination of by MPI: 6.431751 milliseconds
+Run time for Gaussian elimination of by MPI: 6.339513 milliseconds
+============= MPI with 9 processors =================
+!! N_cons 240 is indivisible by comm_size 9 , please change the number of processors !!
+============= MPI with 10 processors =================
+Run time for Gaussian elimination of by MPI: 6.358564 milliseconds
+Run time for Gaussian elimination of by MPI: 6.379291 milliseconds
+Run time for Gaussian elimination of by MPI: 6.113403 milliseconds
+Run time for Gaussian elimination of by MPI: 7.063776 milliseconds
+Run time for Gaussian elimination of by MPI: 6.205581 milliseconds
+============= MPI with 11 processors =================
+!! N_cons 240 is indivisible by comm_size 11 , please change the number of processors !!
+============= MPI with 12 processors =================
+Run time for Gaussian elimination of by MPI: 6.912515 milliseconds
+Run time for Gaussian elimination of by MPI: 6.993018 milliseconds
+Run time for Gaussian elimination of by MPI: 6.910585 milliseconds
+Run time for Gaussian elimination of by MPI: 7.049844 milliseconds
+Run time for Gaussian elimination of by MPI: 6.198443 milliseconds
+============= MPI with 13 processors =================
+!! N_cons 240 is indivisible by comm_size 13 , please change the number of processors !!
+============= MPI with 14 processors =================
+!! N_cons 240 is indivisible by comm_size 14 , please change the number of processors !!
+============= MPI with 15 processors =================
+Run time for Gaussian elimination of by MPI: 6.184295 milliseconds
+Run time for Gaussian elimination of by MPI: 6.075345 milliseconds
+Run time for Gaussian elimination of by MPI: 7.240839 milliseconds
+Run time for Gaussian elimination of by MPI: 6.939903 milliseconds
+Run time for Gaussian elimination of by MPI: 6.065428 milliseconds
+============= MPI with 16 processors =================
+Run time for Gaussian elimination of by MPI: 6.230317 milliseconds
+Run time for Gaussian elimination of by MPI: 6.052949 milliseconds
+Run time for Gaussian elimination of by MPI: 6.212212 milliseconds
+Run time for Gaussian elimination of by MPI: 7.129729 milliseconds
+Run time for Gaussian elimination of by MPI: 7.126287 milliseconds
+============= MPI with 17 processors =================
+!! N_cons 240 is indivisible by comm_size 17 , please change the number of processors !!
+============= MPI with 18 processors =================
+!! N_cons 240 is indivisible by comm_size 18 , please change the number of processors !!
+============= MPI with 19 processors =================
+!! N_cons 240 is indivisible by comm_size 19 , please change the number of processors !!
+============= MPI with 20 processors =================
+Run time for Gaussian elimination of by MPI: 7.416338 milliseconds
+Run time for Gaussian elimination of by MPI: 7.593900 milliseconds
+Run time for Gaussian elimination of by MPI: 7.444136 milliseconds
+Run time for Gaussian elimination of by MPI: 7.166766 milliseconds
+Run time for Gaussian elimination of by MPI: 6.428331 milliseconds
+============= MPI with 21 processors =================
+!! N_cons 240 is indivisible by comm_size 21 , please change the number of processors !!
+============= MPI with 22 processors =================
+!! N_cons 240 is indivisible by comm_size 22 , please change the number of processors !!
+============= MPI with 23 processors =================
+!! N_cons 240 is indivisible by comm_size 23 , please change the number of processors !!
+============= MPI with 24 processors =================
+Run time for Gaussian elimination of by MPI: 7.595211 milliseconds
+Run time for Gaussian elimination of by MPI: 7.594168 milliseconds
+Run time for Gaussian elimination of by MPI: 7.438637 milliseconds
+Run time for Gaussian elimination of by MPI: 7.493995 milliseconds
+Run time for Gaussian elimination of by MPI: 7.443696 milliseconds
+============= MPI with 25 processors =================
+!! N_cons 240 is indivisible by comm_size 25 , please change the number of processors !!
+============= MPI with 26 processors =================
+!! N_cons 240 is indivisible by comm_size 26 , please change the number of processors !!
+============= MPI with 27 processors =================
+!! N_cons 240 is indivisible by comm_size 27 , please change the number of processors !!
+============= MPI with 28 processors =================
+!! N_cons 240 is indivisible by comm_size 28 , please change the number of processors !!
+============= MPI with 29 processors =================
+!! N_cons 240 is indivisible by comm_size 29 , please change the number of processors !!
+============= MPI with 30 processors =================
+Run time for Gaussian elimination of by MPI: 6.299645 milliseconds
+Run time for Gaussian elimination of by MPI: 6.649651 milliseconds
+Run time for Gaussian elimination of by MPI: 6.430939 milliseconds
+Run time for Gaussian elimination of by MPI: 6.611601 milliseconds
+Run time for Gaussian elimination of by MPI: 6.920442 milliseconds
+============= MPI with 31 processors =================
+!! N_cons 240 is indivisible by comm_size 31 , please change the number of processors !!
+============= MPI with 32 processors =================
+!! N_cons 240 is indivisible by comm_size 32 , please change the number of processors !!
+============= MPI with 33 processors =================
+!! N_cons 240 is indivisible by comm_size 33 , please change the number of processors !!
+============= MPI with 34 processors =================
+!! N_cons 240 is indivisible by comm_size 34 , please change the number of processors !!
+============= MPI with 35 processors =================
+!! N_cons 240 is indivisible by comm_size 35 , please change the number of processors !!
+============= MPI with 36 processors =================
+!! N_cons 240 is indivisible by comm_size 36 , please change the number of processors !!
+============= MPI with 37 processors =================
+!! N_cons 240 is indivisible by comm_size 37 , please change the number of processors !!
+============= MPI with 38 processors =================
+!! N_cons 240 is indivisible by comm_size 38 , please change the number of processors !!
+============= MPI with 39 processors =================
+!! N_cons 240 is indivisible by comm_size 39 , please change the number of processors !!
+============= MPI with 40 processors =================
+Run time for Gaussian elimination of by MPI: 7.511668 milliseconds
+Run time for Gaussian elimination of by MPI: 7.459469 milliseconds
+Run time for Gaussian elimination of by MPI: 7.496886 milliseconds
+Run time for Gaussian elimination of by MPI: 7.208370 milliseconds
+Run time for Gaussian elimination of by MPI: 8.834936 milliseconds

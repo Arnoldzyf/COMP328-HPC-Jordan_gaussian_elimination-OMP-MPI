@@ -1,0 +1,31 @@
+
+test case of size 240 * 240
+using 20 cores
+
+
+
+******************** MPI ***********************
+============= opt=0 MPI with 20 processors =================
+Run time for Gaussian elimination of by MPI: 8.489959 milliseconds
+Run time for Gaussian elimination of by MPI: 6.485321 milliseconds
+Run time for Gaussian elimination of by MPI: 8.257724 milliseconds
+Run time for Gaussian elimination of by MPI: 7.129848 milliseconds
+Run time for Gaussian elimination of by MPI: 8.362882 milliseconds
+============= opt=1 MPI with 20 processors =================
+Run time for Gaussian elimination of by MPI: 5.517982 milliseconds
+Run time for Gaussian elimination of by MPI: 5.534925 milliseconds
+Run time for Gaussian elimination of by MPI: 5.648300 milliseconds
+Run time for Gaussian elimination of by MPI: 5.624302 milliseconds
+Run time for Gaussian elimination of by MPI: 4.634947 milliseconds
+============= opt=2 MPI with 20 processors =================
+Run time for Gaussian elimination of by MPI: 5.472474 milliseconds
+Run time for Gaussian elimination of by MPI: 5.179994 milliseconds
+Run time for Gaussian elimination of by MPI: 5.410120 milliseconds
+Run time for Gaussian elimination of by MPI: 4.359856 milliseconds
+Run time for Gaussian elimination of by MPI: 4.291855 milliseconds
+============= opt=3 MPI with 20 processors =================
+Run time for Gaussian elimination of by MPI: 4.482895 milliseconds
+Run time for Gaussian elimination of by MPI: 4.575044 milliseconds
+Run time for Gaussian elimination of by MPI: 5.473435 milliseconds
+Run time for Gaussian elimination of by MPI: 5.355656 milliseconds
+Run time for Gaussian elimination of by MPI: 4.899696 milliseconds

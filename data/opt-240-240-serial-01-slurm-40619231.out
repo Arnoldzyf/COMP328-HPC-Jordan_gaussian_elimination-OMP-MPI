@@ -1,0 +1,30 @@
+
+test optimization
+test case of size 240 * 240
+
+
+******************** Serial *********************
+============= opt=0 run time ==============
+Run time for Gaussian elimination by serial algorithm: 28.774945 milliseconds
+Run time for Gaussian elimination by serial algorithm: 27.974981 milliseconds
+Run time for Gaussian elimination by serial algorithm: 28.007696 milliseconds
+Run time for Gaussian elimination by serial algorithm: 27.968097 milliseconds
+Run time for Gaussian elimination by serial algorithm: 28.016275 milliseconds
+============= opt=1 run time ==============
+Run time for Gaussian elimination by serial algorithm: 4.469626 milliseconds
+Run time for Gaussian elimination by serial algorithm: 4.493999 milliseconds
+Run time for Gaussian elimination by serial algorithm: 4.350972 milliseconds
+Run time for Gaussian elimination by serial algorithm: 4.351811 milliseconds
+Run time for Gaussian elimination by serial algorithm: 4.356513 milliseconds
+============= opt=2 run time ==============
+Run time for Gaussian elimination by serial algorithm: 7.224690 milliseconds
+Run time for Gaussian elimination by serial algorithm: 6.600643 milliseconds
+Run time for Gaussian elimination by serial algorithm: 6.138103 milliseconds
+Run time for Gaussian elimination by serial algorithm: 6.101383 milliseconds
+Run time for Gaussian elimination by serial algorithm: 6.084028 milliseconds
+============= opt=3 run time ==============
+Run time for Gaussian elimination by serial algorithm: 2.222769 milliseconds
+Run time for Gaussian elimination by serial algorithm: 2.235619 milliseconds
+Run time for Gaussian elimination by serial algorithm: 2.226591 milliseconds
+Run time for Gaussian elimination by serial algorithm: 2.223391 milliseconds
+Run time for Gaussian elimination by serial algorithm: 2.227413 milliseconds
